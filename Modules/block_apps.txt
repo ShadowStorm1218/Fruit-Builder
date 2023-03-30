@@ -1,0 +1,8 @@
+0.0.0.0     www.discord.com
+0.0.0.0     discord.com
+0.0.0.0     www.steampowered.com
+0.0.0.0     steampowered.com
+0.0.0.0     google.com
+0.0.0.0     www.google.com
+0.0.0.0     github.com
+0.0.0.0     www.github.com

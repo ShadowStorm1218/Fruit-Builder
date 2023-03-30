@@ -1,0 +1,10 @@
+0.0.0.0     reddit.com
+0.0.0.0     www.reddit.com
+0.0.0.0     stackoverflow.com
+0.0.0.0     www.stackoverflow.com
+0.0.0.0     wikipedia.org
+0.0.0.0     www.wikipedia.org
+0.0.0.0     xbunker.nu
+0.0.0.0     www.xbunker.nu
+0.0.0.0     mozilla.org
+0.0.0.0     www.mozilla.org

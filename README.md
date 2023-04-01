@@ -15,4 +15,12 @@ Dont know what a .pyc file is? Its a compiled python script. I havent seen many 
 9. Press the Compile button
 10. Rename the temp.cpython file to whatever you want.
 
+# Why Use Fruit Builder
+
+1. It install all the dependencies inside of the .pyc file for victims
+2. It compiles inside of .pyc files
+3. All the options work, besides the Icon, because you cant add an icon to .pyc files
+4. Your supporting me <3
+5. I like 5 reasons :D
+
 **Goodluck Beaming!**

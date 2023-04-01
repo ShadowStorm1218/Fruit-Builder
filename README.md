@@ -38,3 +38,5 @@ We do take suggestions inside of discord to add to those github files!
 <img src="https://cdn.discordapp.com/attachments/1090678352593039481/1091593867884757052/image.png">
 
 **Discord Link : https://discord.gg/EQ2Vnyth84**
+
+# Educational Purposes Only!

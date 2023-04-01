@@ -2,14 +2,14 @@
 A basic stub builder that makes .pyc stubs.
 Dont know what a .pyc file is? Its a compiled python script. I havent seen many stubs compile into a .pyc so i made one!
 
+# Prerequisiqtes
+Python 3.9
+
 # Steps to Use While Beaming!
 
 1. The user must have the same version of python you have. I reccomend using python 3.9 https://www.python.org/downloads/release/python-390/
 2. Say its a school project or something.
 3. Have them install the file :D
-
-# Prerequisiqtes
-Python 3 (any version)
 
 # Steps For Instalation.
 

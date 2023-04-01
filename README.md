@@ -2,6 +2,9 @@
 A basic stub builder that makes .pyc stubs.
 Dont know what a .pyc file is? Its a compiled python script. I havent seen many stubs compile into a .pyc so i made one!
 
+#Prerequisiqtes
+Python 3 (any version)
+
 # Steps For Instalation.
 
 1. Install as a Zip

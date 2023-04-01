@@ -23,4 +23,10 @@ Dont know what a .pyc file is? Its a compiled python script. I havent seen many 
 4. Your supporting me <3
 5. I like 5 reasons :D
 
+# What is the Modules? If i edit it will it change for the victim?
+No, the grabber grabs from this github to see those files to block those websites. If you want to change them join my discord below!
+We do take suggestions inside of discord to add to those github files!
+
 **Goodluck Beaming!**
+
+**Discord Link : https://discord.gg/EQ2Vnyth84**

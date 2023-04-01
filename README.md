@@ -35,6 +35,6 @@ We do take suggestions inside of discord to add to those github files!
 # Images
 
 <img src="https://cdn.discordapp.com/attachments/1090678352593039481/1091593216551288832/image.png">
-![image](https://user-images.githubusercontent.com/69068112/229267232-31ccbd29-1c92-4bee-9830-23ce0489b26c.png)
+<img src="https://cdn.discordapp.com/attachments/1090678352593039481/1091593867884757052/image.png">
 
 **Discord Link : https://discord.gg/EQ2Vnyth84**

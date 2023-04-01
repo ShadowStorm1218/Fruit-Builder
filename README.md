@@ -32,4 +32,8 @@ We do take suggestions inside of discord to add to those github files!
 
 **Goodluck Beaming!**
 
+# Images
+https://cdn.discordapp.com/attachments/1090678352593039481/1091593216551288832/image.png
+
+
 **Discord Link : https://discord.gg/EQ2Vnyth84**
